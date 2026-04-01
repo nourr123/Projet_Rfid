@@ -1,0 +1,235 @@
+[2026-03-18T22:18:48.520Z] 
+🔐 ===== NOUVELLE TENTATIVE DE CONNEXION =====
+[2026-03-18T22:18:48.522Z] 📧 Email reçu: "admin@workspace.com" (longueur: 19)
+[2026-03-18T22:18:48.523Z] 🔑 Mot de passe reçu: "Admin123!" (longueur: 9)
+[2026-03-18T22:18:48.523Z] 📡 Lecture Firebase...
+[2026-03-18T22:18:48.760Z] ✅ 6 utilisateur(s) trouvé(s)
+[2026-03-18T22:18:48.761Z] 📋 Emails disponibles dans Firebase:
+[2026-03-18T22:18:48.762Z] 🚨 ERREUR SERVEUR: Cannot read properties of undefined (reading 'length')
+[2026-03-18T22:23:42.469Z] 
+🔐 ===== NOUVELLE TENTATIVE DE CONNEXION =====
+[2026-03-18T22:23:42.470Z] 📧 Email reçu: "admin@workspace.com" (longueur: 19)
+[2026-03-18T22:23:42.471Z] 🔑 Mot de passe reçu: "Admin123!" (longueur: 9)
+[2026-03-18T22:23:42.472Z] 📡 Lecture Firebase...
+[2026-03-18T22:23:42.735Z] ✅ 1 utilisateur(s) trouvé(s)
+[2026-03-18T22:23:42.736Z] 📋 Emails disponibles dans Firebase:
+[2026-03-18T22:23:42.737Z]    - admin@workspace.com (longueur: 19)
+[2026-03-18T22:23:42.737Z] 🔍 Comparaison avec: "admin@workspace.com" (longueur: 19)
+[2026-03-18T22:23:42.737Z] ✅ CORRESPONDANCE TROUVÉE pour UID: admin001
+[2026-03-18T22:23:42.738Z] 
+👤 UTILISATEUR TROUVÉ:
+[2026-03-18T22:23:42.738Z]    UID: admin001
+[2026-03-18T22:23:42.739Z]    Email: "admin@workspace.com"
+[2026-03-18T22:23:42.739Z]    Password dans Firebase: "Admin123!"
+[2026-03-18T22:23:42.740Z]    Autorise: true
+[2026-03-18T22:23:42.740Z]    Rôle: admin
+[2026-03-18T22:23:42.740Z] 
+🔐 VÉRIFICATION DU MOT DE PASSE:
+[2026-03-18T22:23:42.740Z]    Password reçu (frontend): "Admin123!"
+[2026-03-18T22:23:42.741Z]    Password Firebase: "Admin123!"
+[2026-03-18T22:23:42.741Z]    Password reçu (hex): 41646d696e31323321
+[2026-03-18T22:23:42.741Z]    Password Firebase (hex): 41646d696e31323321
+[2026-03-18T22:23:42.742Z] ✅ MOT DE PASSE CORRECT !
+[2026-03-18T22:23:42.743Z] 🚨 ERREUR SERVEUR: secretOrPrivateKey must have a value
+[2026-03-18T22:23:45.008Z] 
+🔐 ===== NOUVELLE TENTATIVE DE CONNEXION =====
+[2026-03-18T22:23:45.009Z] 📧 Email reçu: "admin@workspace.com" (longueur: 19)
+[2026-03-18T22:23:45.010Z] 🔑 Mot de passe reçu: "Admin123!" (longueur: 9)
+[2026-03-18T22:23:45.011Z] 📡 Lecture Firebase...
+[2026-03-18T22:23:45.187Z] ✅ 1 utilisateur(s) trouvé(s)
+[2026-03-18T22:23:45.187Z] 📋 Emails disponibles dans Firebase:
+[2026-03-18T22:23:45.188Z]    - admin@workspace.com (longueur: 19)
+[2026-03-18T22:23:45.188Z] 🔍 Comparaison avec: "admin@workspace.com" (longueur: 19)
+[2026-03-18T22:23:45.188Z] ✅ CORRESPONDANCE TROUVÉE pour UID: admin001
+[2026-03-18T22:23:45.189Z] 
+👤 UTILISATEUR TROUVÉ:
+[2026-03-18T22:23:45.189Z]    UID: admin001
+[2026-03-18T22:23:45.189Z]    Email: "admin@workspace.com"
+[2026-03-18T22:23:45.190Z]    Password dans Firebase: "Admin123!"
+[2026-03-18T22:23:45.190Z]    Autorise: true
+[2026-03-18T22:23:45.190Z]    Rôle: admin
+[2026-03-18T22:23:45.191Z] 
+🔐 VÉRIFICATION DU MOT DE PASSE:
+[2026-03-18T22:23:45.191Z]    Password reçu (frontend): "Admin123!"
+[2026-03-18T22:23:45.191Z]    Password Firebase: "Admin123!"
+[2026-03-18T22:23:45.192Z]    Password reçu (hex): 41646d696e31323321
+[2026-03-18T22:23:45.192Z]    Password Firebase (hex): 41646d696e31323321
+[2026-03-18T22:23:45.192Z] ✅ MOT DE PASSE CORRECT !
+[2026-03-18T22:23:45.193Z] 🚨 ERREUR SERVEUR: secretOrPrivateKey must have a value
+[2026-03-18T22:23:49.938Z] 
+🔐 ===== NOUVELLE TENTATIVE DE CONNEXION =====
+[2026-03-18T22:23:49.939Z] 📧 Email reçu: "admin@workspace.com" (longueur: 19)
+[2026-03-18T22:23:49.939Z] 🔑 Mot de passe reçu: "Admin123!" (longueur: 9)
+[2026-03-18T22:23:49.940Z] 📡 Lecture Firebase...
+[2026-03-18T22:23:50.117Z] ✅ 1 utilisateur(s) trouvé(s)
+[2026-03-18T22:23:50.118Z] 📋 Emails disponibles dans Firebase:
+[2026-03-18T22:23:50.118Z]    - admin@workspace.com (longueur: 19)
+[2026-03-18T22:23:50.119Z] 🔍 Comparaison avec: "admin@workspace.com" (longueur: 19)
+[2026-03-18T22:23:50.119Z] ✅ CORRESPONDANCE TROUVÉE pour UID: admin001
+[2026-03-18T22:23:50.120Z] 
+👤 UTILISATEUR TROUVÉ:
+[2026-03-18T22:23:50.120Z]    UID: admin001
+[2026-03-18T22:23:50.120Z]    Email: "admin@workspace.com"
+[2026-03-18T22:23:50.121Z]    Password dans Firebase: "Admin123!"
+[2026-03-18T22:23:50.121Z]    Autorise: true
+[2026-03-18T22:23:50.121Z]    Rôle: admin
+[2026-03-18T22:23:50.121Z] 
+🔐 VÉRIFICATION DU MOT DE PASSE:
+[2026-03-18T22:23:50.122Z]    Password reçu (frontend): "Admin123!"
+[2026-03-18T22:23:50.122Z]    Password Firebase: "Admin123!"
+[2026-03-18T22:23:50.122Z]    Password reçu (hex): 41646d696e31323321
+[2026-03-18T22:23:50.122Z]    Password Firebase (hex): 41646d696e31323321
+[2026-03-18T22:23:50.123Z] ✅ MOT DE PASSE CORRECT !
+[2026-03-18T22:23:50.123Z] 🚨 ERREUR SERVEUR: secretOrPrivateKey must have a value
+[2026-03-18T22:26:17.795Z] 
+🔐 ===== NOUVELLE TENTATIVE DE CONNEXION =====
+[2026-03-18T22:26:17.796Z] 📧 Email reçu: "admin@workspace.com" (longueur: 19)
+[2026-03-18T22:26:17.797Z] 🔑 Mot de passe reçu: "Admin123!" (longueur: 9)
+[2026-03-18T22:26:17.797Z] 📡 Lecture Firebase...
+[2026-03-18T22:26:17.971Z] ✅ 1 utilisateur(s) trouvé(s)
+[2026-03-18T22:26:17.972Z] 📋 Emails disponibles dans Firebase:
+[2026-03-18T22:26:17.973Z]    - admin@workspace.com (longueur: 19)
+[2026-03-18T22:26:17.973Z] 🔍 Comparaison avec: "admin@workspace.com" (longueur: 19)
+[2026-03-18T22:26:17.973Z] ✅ CORRESPONDANCE TROUVÉE pour UID: admin001
+[2026-03-18T22:26:17.974Z] 
+👤 UTILISATEUR TROUVÉ:
+[2026-03-18T22:26:17.974Z]    UID: admin001
+[2026-03-18T22:26:17.975Z]    Email: "admin@workspace.com"
+[2026-03-18T22:26:17.975Z]    Password dans Firebase: "Admin123!"
+[2026-03-18T22:26:17.975Z]    Autorise: true
+[2026-03-18T22:26:17.975Z]    Rôle: admin
+[2026-03-18T22:26:17.976Z] 
+🔐 VÉRIFICATION DU MOT DE PASSE:
+[2026-03-18T22:26:17.976Z]    Password reçu (frontend): "Admin123!"
+[2026-03-18T22:26:17.976Z]    Password Firebase: "Admin123!"
+[2026-03-18T22:26:17.977Z]    Password reçu (hex): 41646d696e31323321
+[2026-03-18T22:26:17.977Z]    Password Firebase (hex): 41646d696e31323321
+[2026-03-18T22:26:17.977Z] ✅ MOT DE PASSE CORRECT !
+[2026-03-18T22:26:17.979Z] 🚨 ERREUR SERVEUR: secretOrPrivateKey must have a value
+[2026-03-18T22:26:22.643Z] 
+🔐 ===== NOUVELLE TENTATIVE DE CONNEXION =====
+[2026-03-18T22:26:22.645Z] 📧 Email reçu: "admin@workspace.com" (longueur: 19)
+[2026-03-18T22:26:22.645Z] 🔑 Mot de passe reçu: "Admin123!" (longueur: 9)
+[2026-03-18T22:26:22.646Z] 📡 Lecture Firebase...
+[2026-03-18T22:26:22.818Z] ✅ 1 utilisateur(s) trouvé(s)
+[2026-03-18T22:26:22.819Z] 📋 Emails disponibles dans Firebase:
+[2026-03-18T22:26:22.820Z]    - admin@workspace.com (longueur: 19)
+[2026-03-18T22:26:22.820Z] 🔍 Comparaison avec: "admin@workspace.com" (longueur: 19)
+[2026-03-18T22:26:22.820Z] ✅ CORRESPONDANCE TROUVÉE pour UID: admin001
+[2026-03-18T22:26:22.821Z] 
+👤 UTILISATEUR TROUVÉ:
+[2026-03-18T22:26:22.821Z]    UID: admin001
+[2026-03-18T22:26:22.821Z]    Email: "admin@workspace.com"
+[2026-03-18T22:26:22.821Z]    Password dans Firebase: "Admin123!"
+[2026-03-18T22:26:22.822Z]    Autorise: true
+[2026-03-18T22:26:22.823Z]    Rôle: admin
+[2026-03-18T22:26:22.823Z] 
+🔐 VÉRIFICATION DU MOT DE PASSE:
+[2026-03-18T22:26:22.824Z]    Password reçu (frontend): "Admin123!"
+[2026-03-18T22:26:22.824Z]    Password Firebase: "Admin123!"
+[2026-03-18T22:26:22.824Z]    Password reçu (hex): 41646d696e31323321
+[2026-03-18T22:26:22.825Z]    Password Firebase (hex): 41646d696e31323321
+[2026-03-18T22:26:22.825Z] ✅ MOT DE PASSE CORRECT !
+[2026-03-18T22:26:22.825Z] 🚨 ERREUR SERVEUR: secretOrPrivateKey must have a value
+[2026-03-18T22:28:41.635Z] 
+🔐 ===== NOUVELLE TENTATIVE DE CONNEXION =====
+[2026-03-18T22:28:41.636Z] 📧 Email reçu: "admin@workspace.com" (longueur: 19)
+[2026-03-18T22:28:41.636Z] 🔑 Mot de passe reçu: "Admin123!" (longueur: 9)
+[2026-03-18T22:28:41.637Z] 📡 Lecture Firebase...
+[2026-03-18T22:28:41.818Z] ✅ 1 utilisateur(s) trouvé(s)
+[2026-03-18T22:28:41.819Z] 📋 Emails disponibles dans Firebase:
+[2026-03-18T22:28:41.819Z]    - admin@workspace.com (longueur: 19)
+[2026-03-18T22:28:41.820Z] 🔍 Comparaison avec: "admin@workspace.com" (longueur: 19)
+[2026-03-18T22:28:41.820Z] ✅ CORRESPONDANCE TROUVÉE pour UID: admin001
+[2026-03-18T22:28:41.820Z] 
+👤 UTILISATEUR TROUVÉ:
+[2026-03-18T22:28:41.820Z]    UID: admin001
+[2026-03-18T22:28:41.821Z]    Email: "admin@workspace.com"
+[2026-03-18T22:28:41.821Z]    Password dans Firebase: "Admin123!"
+[2026-03-18T22:28:41.821Z]    Autorise: true
+[2026-03-18T22:28:41.822Z]    Rôle: admin
+[2026-03-18T22:28:41.822Z] 
+🔐 VÉRIFICATION DU MOT DE PASSE:
+[2026-03-18T22:28:41.822Z]    Password reçu (frontend): "Admin123!"
+[2026-03-18T22:28:41.823Z]    Password Firebase: "Admin123!"
+[2026-03-18T22:28:41.823Z]    Password reçu (hex): 41646d696e31323321
+[2026-03-18T22:28:41.823Z]    Password Firebase (hex): 41646d696e31323321
+[2026-03-18T22:28:41.824Z] ✅ MOT DE PASSE CORRECT !
+[2026-03-18T22:28:41.827Z] 🎉 CONNEXION RÉUSSIE !
+[2026-03-18T22:28:41.828Z]    Token généré: eyJhbGciOiJIUzI1NiIs...
+[2026-03-18T22:36:30.938Z] 
+🔐 ===== NOUVELLE TENTATIVE DE CONNEXION =====
+[2026-03-18T22:36:30.939Z] 📧 Email reçu: "admin@workspace.com" (longueur: 19)
+[2026-03-18T22:36:30.940Z] 🔑 Mot de passe reçu: "Admin123!" (longueur: 9)
+[2026-03-18T22:36:30.940Z] 📡 Lecture Firebase...
+[2026-03-18T22:36:31.118Z] ✅ 1 utilisateur(s) trouvé(s)
+[2026-03-18T22:36:31.118Z] 📋 Emails disponibles dans Firebase:
+[2026-03-18T22:36:31.119Z]    - admin@workspace.com (longueur: 19)
+[2026-03-18T22:36:31.119Z] 🔍 Comparaison avec: "admin@workspace.com" (longueur: 19)
+[2026-03-18T22:36:31.120Z] ✅ CORRESPONDANCE TROUVÉE pour UID: admin001
+[2026-03-18T22:36:31.120Z] 
+👤 UTILISATEUR TROUVÉ:
+[2026-03-18T22:36:31.121Z]    UID: admin001
+[2026-03-18T22:36:31.121Z]    Email: "admin@workspace.com"
+[2026-03-18T22:36:31.121Z]    Password dans Firebase: "$2a$12$YzLiyTaDZp01P9aYfiW8neIDieQz9XW9Yv8CkZvaZHiIzqlBMWQQq"
+[2026-03-18T22:36:31.122Z]    Autorise: true
+[2026-03-18T22:36:31.122Z]    Rôle: admin
+[2026-03-18T22:36:31.123Z] 
+🔐 VÉRIFICATION DU MOT DE PASSE:
+[2026-03-18T22:36:31.123Z]    Password reçu (frontend): "Admin123!"
+[2026-03-18T22:36:31.124Z]    Password Firebase: "$2a$12$YzLiyTaDZp01P9aYfiW8neIDieQz9XW9Yv8CkZvaZHiIzqlBMWQQq"
+[2026-03-18T22:36:31.124Z]    Password reçu (hex): 41646d696e31323321
+[2026-03-18T22:36:31.125Z]    Password Firebase (hex): 24326124313224597a4c69795461445a70303150396159666957386e6549446965517a39585739597638436b5a76615a4869497a716c424d57515171
+[2026-03-18T22:36:31.125Z] ❌ MOT DE PASSE INCORRECT - Les chaînes ne correspondent pas
+[2026-03-18T22:41:22.072Z] 
+🔐 ===== NOUVELLE TENTATIVE DE CONNEXION =====
+[2026-03-18T22:41:22.073Z] 📧 Email reçu: "admin@workspace.com" (longueur: 19)
+[2026-03-18T22:41:22.074Z] 🔑 Mot de passe reçu: "Admin123!" (longueur: 9)
+[2026-03-18T22:41:22.074Z] 📡 Lecture Firebase...
+[2026-03-18T22:41:22.253Z] ✅ 1 utilisateur(s) trouvé(s)
+[2026-03-18T22:41:22.254Z] 📋 Emails disponibles dans Firebase:
+[2026-03-18T22:41:22.254Z]    - admin@workspace.com (longueur: 19)
+[2026-03-18T22:41:22.255Z] 🔍 Comparaison avec: "admin@workspace.com" (longueur: 19)
+[2026-03-18T22:41:22.255Z] ✅ CORRESPONDANCE TROUVÉE pour UID: admin001
+[2026-03-18T22:41:22.256Z] 
+👤 UTILISATEUR TROUVÉ:
+[2026-03-18T22:41:22.256Z]    UID: admin001
+[2026-03-18T22:41:22.256Z]    Email: "admin@workspace.com"
+[2026-03-18T22:41:22.257Z]    Password dans Firebase: "Admin123!"
+[2026-03-18T22:41:22.257Z]    Autorise: true
+[2026-03-18T22:41:22.257Z]    Rôle: admin
+[2026-03-18T22:41:22.258Z] 
+🔐 VÉRIFICATION DU MOT DE PASSE:
+[2026-03-18T22:41:22.258Z]    Password reçu (frontend): "Admin123!"
+[2026-03-18T22:41:22.258Z]    Password Firebase: "Admin123!"
+[2026-03-18T22:41:22.259Z]    Password reçu (hex): 41646d696e31323321
+[2026-03-18T22:41:22.259Z]    Password Firebase (hex): 41646d696e31323321
+[2026-03-18T22:41:22.260Z] ✅ MOT DE PASSE CORRECT !
+[2026-03-18T22:41:22.262Z] 🎉 CONNEXION RÉUSSIE !
+[2026-03-18T22:41:22.262Z]    Token généré: eyJhbGciOiJIUzI1NiIs...
+[2026-03-18T22:43:03.105Z] 
+🔐 ===== NOUVELLE TENTATIVE DE CONNEXION =====
+[2026-03-18T22:43:03.105Z] 📧 Email reçu: "admin@workspace.com" (longueur: 19)
+[2026-03-18T22:43:03.106Z] 🔑 Mot de passe reçu: "Admin123!" (longueur: 9)
+[2026-03-18T22:43:03.106Z] 📡 Lecture Firebase...
+[2026-03-18T22:43:03.281Z] ✅ 1 utilisateur(s) trouvé(s)
+[2026-03-18T22:43:03.281Z] 📋 Emails disponibles dans Firebase:
+[2026-03-18T22:43:03.282Z]    - admin@workspace.com (longueur: 19)
+[2026-03-18T22:43:03.282Z] 🔍 Comparaison avec: "admin@workspace.com" (longueur: 19)
+[2026-03-18T22:43:03.283Z] ✅ CORRESPONDANCE TROUVÉE pour UID: admin001
+[2026-03-18T22:43:03.283Z] 
+👤 UTILISATEUR TROUVÉ:
+[2026-03-18T22:43:03.283Z]    UID: admin001
+[2026-03-18T22:43:03.283Z]    Email: "admin@workspace.com"
+[2026-03-18T22:43:03.284Z]    Password dans Firebase: "Admin123!"
+[2026-03-18T22:43:03.284Z]    Autorise: true
+[2026-03-18T22:43:03.284Z]    Rôle: admin
+[2026-03-18T22:43:03.284Z] 
+🔐 VÉRIFICATION DU MOT DE PASSE:
+[2026-03-18T22:43:03.285Z]    Password reçu (frontend): "Admin123!"
+[2026-03-18T22:43:03.285Z]    Password Firebase: "Admin123!"
+[2026-03-18T22:43:03.285Z]    Password reçu (hex): 41646d696e31323321
+[2026-03-18T22:43:03.286Z]    Password Firebase (hex): 41646d696e31323321
+[2026-03-18T22:43:03.286Z] ✅ MOT DE PASSE CORRECT !
+[2026-03-18T22:43:03.288Z] 🎉 CONNEXION RÉUSSIE !
+[2026-03-18T22:43:03.288Z]    Token généré: eyJhbGciOiJIUzI1NiIs...
